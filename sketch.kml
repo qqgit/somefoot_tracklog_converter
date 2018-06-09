@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sketch.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Main</name>
+		<open>1</open>
+		<Placemark>
+			<name>line1</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					114.1145158538077,38.52318011913848,0 114.1143028319616,38.52373359859342,0 114.1144689693077,38.52413390536188,0 114.1150027871495,38.52431604289127,0 114.1156366934175,38.52450473607831,0 114.1158252122359,38.52468803372501,0 114.1162366063852,38.52461228357383,0 114.1163631880093,38.52481490779987,0 114.1165798422207,38.5248371944198,0 114.1169396674984,38.525010203999,0 114.1174584515632,38.52506168529764,0 114.1176716007378,38.52491549693383,0 114.1178801388997,38.52489681030491,0 114.1180458271267,38.52506191430683,0 114.1182416111702,38.52502078371474,0 114.1184578014745,38.52502342224571,0 114.1186174581655,38.52514563869009,0 114.119037746878,38.52526407286826,0 114.1192372310529,38.52559374827311,0 114.1193913583363,38.5256876993888,0 114.119493563649,38.52561036728967,0 114.119777058117,38.52568051580965,0 114.1199670868098,38.52582928531983,0 114.1200627197715,38.5261357958111,0 114.1203066393215,38.52619326451682,0 114.1206806779406,38.5263200374322,0 114.1210145336857,38.52639029963961,0 114.1213350568183,38.52667156049749,0 114.1215570571013,38.52669885261636,0 114.1219917129914,38.52679906830974,0 114.1223367584387,38.5271546965656,0 114.1226614440909,38.52750142941028,0 114.1229010187453,38.52786881109615,0 114.1230501301042,38.52819651359091,0 114.123222725674,38.52832494486732,0 114.123589851063,38.52838144607193,0 114.1238695083835,38.52838262002005,0 114.1242777106269,38.5286011639522,0 114.1243520898742,38.52880185226777,0 114.1246248349556,38.52879287640275,0 114.1250430783786,38.5290124778845,0 114.1252856161154,38.52910366466679,0 114.1253404527376,38.52923794766184,0 114.1253457653464,38.5296109744608,0 114.1255873578632,38.52997437354942,0 114.1257608287039,38.53025551961601,0 114.1257758962758,38.53042783213763,0 114.126375220312,38.53076570046277,0 114.1267649374273,38.5308969299496,0 114.1271407637551,38.53071557082552,0 114.1274630955653,38.53048731470938,0 114.1276294576368,38.53039003522607,0 114.1279736695974,38.53022553173931,0 114.1282238697126,38.52996004270631,0 114.1286653057467,38.52990054681581,0 114.12935856055,38.52978282261715,0 114.1295839146005,38.52975335696677,0 114.1302162671327,38.53002225159202,0 114.1301563731052,38.53037316166479,0 114.1304090489932,38.53067645964476,0 114.1306521986,38.53120534779015,0 114.130731459822,38.53172566148287,0 114.130897524869,38.53215259857503,0 114.1310568200968,38.53244332196186,0 114.1313187293252,38.53257525720402,0 114.1316021273807,38.53252853116626,0 114.1318924110115,38.53261413125449,0 114.1320881987886,38.53250735233453,0 114.1327198569212,38.53255706905336,0 114.1328756638478,38.53250694827653,0 114.1329941299169,38.53229660307691,0 114.1329703015982,38.53217634060281,0 114.1331739914289,38.5320657764496,0 114.1334238009475,38.5319824878362,0 114.1334284726954,38.53158537487548,0 114.1335523682449,38.53151778757704,0 114.1336197620711,38.5314367017143,0 114.1335652917556,38.53129928287546,0 114.1337037971272,38.53116422646041,0 114.1337940684158,38.53103664432179,0 114.1340530079011,38.53109712146515,0 114.1342211250739,38.53106308091524,0 114.1345327629837,38.53106014796718,0 114.1348536167997,38.53115415388508,0 114.1349651469249,38.53106809478344,0 114.1347296330413,38.53090768528581,0 114.134232238849,38.53078006743551,0 114.1344174466646,38.53036498472048,0 114.1344644506782,38.52993610711626,0 114.1345664109369,38.52969248906062,0 114.1345023873452,38.52940297306634,0 114.1343183622211,38.5291067394339,0 114.1340721663438,38.52871488519526,0 114.13379348306,38.5284470774623,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Point1</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1148363529337</longitude>
+				<latitude>38.52634503519988</latitude>
+				<altitude>0</altitude>
+				<heading>5.395602524479213</heading>
+				<tilt>11.93477843346054</tilt>
+				<range>1333.888419822908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1105171672241,38.52843745938206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point2</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1222284349264</longitude>
+				<latitude>38.52500131170972</latitude>
+				<altitude>0</altitude>
+				<heading>5.400206748961543</heading>
+				<tilt>11.93467439950309</tilt>
+				<range>1277.879067492875</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1196240094855,38.5255996754245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>lake1</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1320395619495</longitude>
+				<latitude>38.52811144517438</latitude>
+				<altitude>0</altitude>
+				<heading>5.406318131904842</heading>
+				<tilt>11.93456290658245</tilt>
+				<range>1217.852915001601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1287698551988,38.526957006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>parklake1</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1320558087305</longitude>
+				<latitude>38.52530838991541</latitude>
+				<altitude>0</altitude>
+				<heading>5.406328123848884</heading>
+				<tilt>11.93468732816736</tilt>
+				<range>1284.839312226073</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1276287526369,38.52416398027149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>water1</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1284218551204</longitude>
+				<latitude>38.52831458588464</latitude>
+				<altitude>0</altitude>
+				<heading>5.404064644476521</heading>
+				<tilt>11.93467995973757</tilt>
+				<range>1280.872419353025</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1296146942509,38.52974910421985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>parklake2</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-05-24T03:05:04Z</when>
+</gx:TimeStamp>
+				<longitude>114.1347032824069</longitude>
+				<latitude>38.52794810265387</latitude>
+				<altitude>0</altitude>
+				<heading>5.407977164059194</heading>
+				<tilt>11.93617142458879</tilt>
+				<range>1574.764818327803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1335521806766,38.52813486145821,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

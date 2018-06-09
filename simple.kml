@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>test.kml</name>
+	<Placemark>
+		<name>test</name>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				114.1260631539567,38.53354565692887,0 114.1285354401079,38.53377204894035,0 114.1315654822164,38.53470063540026,0 114.135067785008,38.53541372259065,0 114.1386963379835,38.53447032055881,0 114.1416667013257,38.53324946876755,0 114.1433205458628,38.53359301905314,0 114.1451665344609,38.53291233515792,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
