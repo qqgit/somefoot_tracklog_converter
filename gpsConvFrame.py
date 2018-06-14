@@ -13,7 +13,7 @@ import json
 
 class gpsConvFrame(wx.Frame):
     def __init__(self):
-        wx.Frame.__init__(self, None, -1, "I18N Translator")
+        wx.Frame.__init__(self, None, -1, "GPS Track Data Converter")
         panel = wx.Panel(self)
         
         # First create the controls
